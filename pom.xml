@@ -15,7 +15,7 @@
     <logback.version>1.2.3</logback.version>
   
     <fcrepo4.version>5.1.0</fcrepo4.version>
-    <jena.version>3.9.0</jena.version>
+    <jena.version>4.2.0</jena.version>
     <junit.version>4.12</junit.version>
     <grizzly.version>2.3.28</grizzly.version>
     <jersey.version>2.24</jersey.version>
